@@ -1,2 +1,2 @@
 # intro
-Dummy_file
+Dummy_file.com creating a new repo
